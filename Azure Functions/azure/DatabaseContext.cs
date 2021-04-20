@@ -27,7 +27,10 @@ namespace CDV.app
                     people.Add(new Person
                     {
                         PersonId = Convert.ToInt32(reader["PersonId"]),
-                        FirstName = reader["FirstName"].ToString()
+                        FirstName = reader["FirstName"].ToString(),
+                        LastName = reader["LastName"].ToString(),
+                        Phonenumber = reader["Phonenumber"].ToString()
+
 
                     });
                 }
