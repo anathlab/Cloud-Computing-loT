@@ -1,10 +1,10 @@
 # Cloud-Computing-loT
 **Microsoft Azure:**
-<br\>
+<br />
 SQL database and App Service
-<br\>
+<br />
 - Virtual Network
-<br\>
+<br />
 - VPN, PowerShell
-<br\>
+<br />
 -  Azure Function App 
